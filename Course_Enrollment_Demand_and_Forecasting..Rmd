@@ -1,0 +1,27 @@
+---
+title: "Course Enrollment Demand and Forecasting"
+author: "Sarnava Pal"
+date: "`r Sys.Date()`"
+output: html_document
+---
+5. Initial Analytics Investigation
+
+a. Type of Analytics
+
+Predictive Analytics
+
+b. Specific Question
+
+Can past course enrollment data be used to predict future course enrollment?
+
+c. Dataset Required
+
+Historical course enrollment data containing:
+
+- Academic year
+- Semester
+- Course name
+- Number of enrollments
+
+d. Plan to Access the Dataset
+
