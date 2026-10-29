@@ -2,11 +2,7 @@
 
 > **Business Analytics Project | CSE (Data Science)**
 > Author: Sarnava Pal
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
-
+ 
 ## 📌 Project Overview
 
 This project analyzes historical course enrollment data to understand enrollment demand, identify trends and patterns, and forecast future enrollment.
