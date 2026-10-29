@@ -181,9 +181,6 @@ At programme level (29 programmes with 8+ continuous years, covering ≈ 70% of 
     ├── forecast_by_programme.csv
     ├── forecast_by_programme_wide.csv
     └── recommendations.csv
-```
-
-> The original R Markdown file contained the initial analytics investigation. That content is now the first section of the notebook, so the `.Rmd` is no longer needed.
 
 ## ▶️ How to Run
 
@@ -198,9 +195,6 @@ pip install -r requirements.txt
 # 3. open the notebook and run all cells (Kernel → Restart & Run All)
 jupyter notebook Course_Enrollment_Demand_and_Forecasting.ipynb
 ```
-
-The notebook also runs in **Google Colab**: upload the notebook and the CSV, then *Runtime → Run all*. Keep the CSV in the same folder as the notebook.
-
 ## 🛠️ Tech Stack
 
 Python · pandas · NumPy · Matplotlib · Seaborn · SciPy · scikit-learn · Jupyter
